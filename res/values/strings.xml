@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AirWeb</string>
+    <string name="action_settings">Settings</string>
+    <string name="editbox_hint">Enter URL....</string>
+    <string name="exit_hint">Press back button again to exit.</string>
+    <string name="menu_1">Settings</string>
+    <string name="menu_2">About</string>
+    <string name="menu_3">Exit</string>
+    <string name="about_title">About</string>
+    <string name="about_context">AirWeb V1.1 Beta\nPaper Airplane Mobi.\n\nA WP-like UI Browser on Android.</string>
+    <string name="about_button">OK</string>
+    <string name="bookmark_succeed">Mark succeed!</string>
+    <string name="bookmark_deleted">Mark deleted!</string>
+    <string name="bookmark_title">Bookmark</string>
+    <string name="bookmark_delete">Delete?</string>
+    <string name="bookmark_delete_tips">You cannot recovery this mark after deleteing.</string>
+    
+</resources>

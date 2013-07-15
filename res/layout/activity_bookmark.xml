@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#101010"
+    android:orientation="vertical"
+    tools:ignore="UselessParent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp" >
+
+        <ImageButton
+            android:id="@+id/imageButton1"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="16dp"
+            android:background="#00000000"
+            android:contentDescription="@string/about_button"
+            android:scaleType="fitXY"
+            android:src="@drawable/arrow_left" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="16dp"
+            android:text="@string/bookmark_title"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="32sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="24dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="12dp"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/listView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="#00000000" >
+
+        </ListView>
+
+    </LinearLayout>
+
+</LinearLayout>

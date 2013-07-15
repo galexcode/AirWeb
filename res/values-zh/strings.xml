@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">简约浏览器</string>
+    <string name="action_settings">设置</string>
+    <string name="editbox_hint">输入网址....</string>
+    <string name="exit_hint">再按一次返回键即可退出</string>
+    <string name="menu_1">设置</string>
+    <string name="menu_2">关于</string>
+    <string name="menu_3">退出</string>
+    <string name="about_title">关于</string>
+    <string name="about_context">简约浏览器 V1.1 Beta\n纸飞机移动应用\n\n程序:fython\nUI与美工:fython\n一个WP风格浏览器。</string>
+    <string name="about_button">好</string>
+    <string name="bookmark_succeed">收藏成功</string>
+    <string name="bookmark_deleted">已取消收藏</string>
+    <string name="bookmark_title">书签</string>
+    <string name="bookmark_delete">删除吗？</string>
+    <string name="bookmark_delete_tips">删除后将无法恢复。</string>
+
+</resources>
